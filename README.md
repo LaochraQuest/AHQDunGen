@@ -9,9 +9,12 @@ Currently adding Quest Ideas table from Terror in the Dark and planning on addin
 **Download**
 
 App can be downloaded here: 
+
 https://play.google.com/store/apps/details?id=ahq.org.ahq
+
 
 **Fonts** 
 
-Fonts come from yeoldeinn.com
+Fonts come from yeoldeinn:
+
 https://english.yeoldeinn.com/design-tools.php#fontpack
